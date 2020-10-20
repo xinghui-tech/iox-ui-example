@@ -1779,10 +1779,10 @@
   resolved "https://registry.npm.taobao.org/@xtuc/long/download/@xtuc/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha1-0pHGpOl5ibXGHZrPOWrk/hM6cY0=
 
-"@zhuyin/iox-ui@^1.1.4":
-  version "1.1.4"
-  resolved "https://npm-registry.zhayanmao.com/@zhuyin/iox-ui/download/@zhuyin/iox-ui-1.1.4.tgz#6825bdd16c1ab289a21f97ab9944b6681c74fc38"
-  integrity sha1-aCW90WwasomiH5ermUS2aBx0/Dg=
+"@zhuyin/iox-ui@^1.1.5":
+  version "1.1.5"
+  resolved "https://npm-registry.zhayanmao.com/@zhuyin/iox-ui/download/@zhuyin/iox-ui-1.1.5.tgz#64fb192fe49822802c5950d8fc9c0a4cec713a93"
+  integrity sha1-ZPsZL+SYIoAsWVDY/JwKTOxxOpM=
 
 "@zhuyin/mp-api-typings@^3.1.2":
   version "3.1.2"

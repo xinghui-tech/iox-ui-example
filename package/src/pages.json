@@ -1,0 +1,39 @@
+{
+	"pages": [
+		{
+			"path": "pages/index",
+			"style": {
+				"navigationStyle": "default",
+				"navigationBarTitleText": "iox-ui-example",
+				"backgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		}
+	],
+	"subPackages": [
+	],
+	"preloadRule": {
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "iox-ui-example",
+		"mp-weixin": { 
+			"navigationBarBackgroundColor": "#F8F8F8"
+		},
+		"h5": { 
+			"navigationBarBackgroundColor": "#F8F8F8"
+		},
+		"mp-alipay": {
+			"allowsBounceVertical": "NO"
+		},
+		"backgroundTextStyle": "dark",
+		"backgroundColor": "#F8F8F8",
+		"usingComponents": {
+		}
+	},
+	"easycom": {
+		"custom": {
+			"iox-(.*)": "@zhuyin/iox-ui/lib/widget/iox-$1/iox-$1.vue"
+		}
+	}
+}
